@@ -1,2 +1,3 @@
-# mykey
-qt函数绘图的失败项目（qt function drawing and fail)
+# yolov5利用python实现物体识别
+该文件由老师提供的文件夹修改而得，增加了一些python文件，以达到优化训练yolov5模型的目的，多个python文件将图片、json文件变txt文件以及他们的搬运联系起来。
+其中删除了一些图片和文本，使用即把图片放在train，用labelme框出来然后保存json文件。具体使用方法阅读附带的文本。
